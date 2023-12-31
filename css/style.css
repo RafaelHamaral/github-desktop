@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+h3 {
+    color: brown;
+    text-decoration: underline;
+}
